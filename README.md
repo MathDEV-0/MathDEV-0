@@ -1,5 +1,5 @@
 # 🔎 About Me:
-## Hi, I'm Matheus<br><br>🧠 Computer Science student at UNISINOS<br>📚 Interested in expanding my knowledges and cooperate in projects<br>🖥️ Java, Python, C , C++, and JavaScript<br>🎨 React, HTML and CSS
+## Hi, I'm Matheus<br><br>🧠 Computer Science student at UNISINOS<br>📚 Interested in expanding my knowledges and cooperate in projects<br>🖥️ Java, Python, C , C++ and JavaScript<br>🎨 React, HTML and CSS
 
 
 ## 🌐 Socials:
