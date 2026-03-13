@@ -1,5 +1,18 @@
 # 🔎 About Me:
-## Hi, I'm Matheus<br><br>🧠 Computer Science student at UNISINOS<br>📚 Interested in expanding my knowledges and cooperate in projects<br>🖥️ Java, Python, C , C++ and JavaScript<br>🎨 React, HTML and CSS
+Hi, I'm Matheus Viegas.
+
+Computer Science student at UNISINOS and undergraduate research fellow at the Applied Software Engineering (ASE) research group.
+
+I work at the intersection of software engineering research and practical software development, focusing on software quality, software architecture, and the design of tools that support the analysis and evolution of complex software systems.
+
+Through research and development projects, I explore approaches that combine engineering practices with empirical research to improve maintainability, system understanding, and developer productivity.
+
+I am interested in collaborating on projects related to:
+
+- Software Quality and Technical Debt
+- Software Architecture and Distributed Systems
+- Static Analysis and Developer Tools
+- Empirical Software Engineering
 
 
 ## 🌐 Socials:
